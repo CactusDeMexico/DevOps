@@ -1,0 +1,5 @@
+[web]
+192.168.1.30
+
+[web:vars]
+user=debian-user
